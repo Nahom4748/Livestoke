@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Institute Launches New Research Facility",
+    "date": "December 2, 2024",
+    "description": "The institute has inaugurated a state-of-the-art research facility focusing on animal genetic improvement.",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": 2,
+    "title": "New Technology for Product Processing Introduced",
+    "date": "November 25, 2024",
+    "description": "A groundbreaking technology for animal product processing was launched this month.",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": 3,
+    "title": "Capacity Building Workshop for Farmers",
+    "date": "November 15, 2024",
+    "description": "A workshop was held to train local farmers in advanced animal husbandry techniques.",
+    "image": "https://via.placeholder.com/600x400"
+  }
+]

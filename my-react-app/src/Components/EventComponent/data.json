@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Annual Livestock Conference 2024",
+    "date": "January 15, 2024",
+    "description": "Join us for a comprehensive discussion on the latest trends in livestock research and technology.",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": 2,
+    "title": "Farmers Workshop: Sustainable Practices",
+    "date": "February 10, 2024",
+    "description": "Learn sustainable practices to improve livestock productivity and reduce environmental impact.",
+    "image": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": 3,
+    "title": "Technology Expo 2024",
+    "date": "March 5, 2024",
+    "description": "Explore cutting-edge technologies transforming livestock and agricultural industries.",
+    "image": "https://via.placeholder.com/600x400"
+  }
+]
